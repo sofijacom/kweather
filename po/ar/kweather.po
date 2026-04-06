@@ -411,7 +411,7 @@ msgstr "المظهر"
 #: qml/SetupWizard.qml:238
 #, kde-format
 msgid "Welcome to <b>Weather</b>"
-msgstr "مرحبا بك في <b>الطقس</b>"
+msgstr "مرحبًا بك في <b>الطقس</b>"
 
 #: qml/SetupWizard.qml:261
 #, kde-format
