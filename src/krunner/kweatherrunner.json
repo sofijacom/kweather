@@ -19,10 +19,12 @@
                 "Name[nl]": "Han Young",
                 "Name[pt_BR]": "Han Young",
                 "Name[ru]": "Han Young",
+                "Name[sk]": "Han Young",
                 "Name[sl]": "Han Young",
                 "Name[tr]": "Han Young",
                 "Name[uk]": "Han Young",
-                "Name[zh_CN]": "Han Young"
+                "Name[zh_CN]": "Han Young",
+                "Name[zh_TW]": "Han Young"
             },
             {
                 "Email": "espidev@gmail.com",
@@ -42,10 +44,12 @@
                 "Name[nl]": "Devin Lin",
                 "Name[pt_BR]": "Devin Lin",
                 "Name[ru]": "Devin Lin",
+                "Name[sk]": "Devin Lin",
                 "Name[sl]": "Devin Lin",
                 "Name[tr]": "Devin Lin",
                 "Name[uk]": "Devin Lin",
-                "Name[zh_CN]": "Devin Lin"
+                "Name[zh_CN]": "Devin Lin",
+                "Name[zh_TW]": "Devin Lin"
             },
             {
                 "Email": "kde@arran4.com",
@@ -65,10 +69,12 @@
                 "Name[nl]": "Arran Ubels",
                 "Name[pt_BR]": "Arran Ubels",
                 "Name[ru]": "Arran Ubels",
+                "Name[sk]": "Arran Ubels",
                 "Name[sl]": "Arran Ubels",
                 "Name[tr]": "Arran Ubels",
                 "Name[uk]": "Arran Ubels",
-                "Name[zh_CN]": "Arran Ubels"
+                "Name[zh_CN]": "Arran Ubels",
+                "Name[zh_TW]": "Arran Ubels"
             }
         ],
         "Description": "Weather forecast runner",
@@ -87,10 +93,12 @@
         "Description[nl]": "Programma voor weersvoorspelling",
         "Description[pt_BR]": "Execução da previsão meteorológica",
         "Description[ru]": "Запуск прогноза погоды",
+        "Description[sk]": "Spúšťač predpovede počasia",
         "Description[sl]": "Vremenska napoved",
         "Description[tr]": "Hava durumu çalıştırıcısı",
         "Description[uk]": "Показ прогнозу погоди",
         "Description[zh_CN]": "天气预报 Runner 程序",
+        "Description[zh_TW]": "氣象預報 runner",
         "Icon": "org.kde.kweather",
         "Name": "Weather",
         "Name[ar]": "الطقس",
@@ -108,10 +116,12 @@
         "Name[nl]": "Weather",
         "Name[pt_BR]": "Meteorologia",
         "Name[ru]": "Погода",
+        "Name[sk]": "Počasie",
         "Name[sl]": "KWeather",
         "Name[tr]": "Hava Durumu",
         "Name[uk]": "Погода",
         "Name[zh_CN]": "天气",
+        "Name[zh_TW]": "天氣",
         "Version": "1.0"
     },
     "X-Plasma-Runner-Min-Letter-Count": 3,
